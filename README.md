@@ -1,7 +1,5 @@
 # Admin Dashboard using React , Next js , Syncfusion . 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <img width="1280" alt="Screenshot 2024-07-12 at 1 38 09 AM" src="https://github.com/user-attachments/assets/1dc92aa7-8c94-48ec-931a-bdc8f381a39e">
 
 ## Deployed on Netlify
