@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Admin Dashboard using React , Next js , Syncfusion . 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
